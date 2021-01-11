@@ -1,4 +1,4 @@
 mysql:
-  url: dev-http://localhost:3306/lagou1111
+  url: dev-http://localhost:3306/lagou9999
 lagou:
-  message: hello lagou,1111
+  message: hello lagou,9999
